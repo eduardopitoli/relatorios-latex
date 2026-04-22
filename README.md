@@ -26,3 +26,8 @@ O material foi desenvolvido em LaTeX, com foco em organização estrutural, clar
 - GeoGebra
 
 ---
+## Arquivos do projeto
+
+📄 [Ver PDF](./relatorio.pdf)
+
+🗂 [Baixar código-fonte](./codigo-fonte.zip)
