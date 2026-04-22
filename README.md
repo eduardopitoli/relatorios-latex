@@ -1,6 +1,6 @@
 # 📊 Relatórios Acadêmicos em LaTeX
 
-Repositório com trabalhos desenvolvidos em LaTeX durante a graduação em Matemática Aplicada (UNICAMP), com foco em organização estrutural, clareza e apresentação de resultados.
+Repositório com trabalhos desenvolvidos em LaTeX durante a graduação em Matemática (UNICAMP), com foco em organização estrutural, clareza e apresentação de resultados.
 
 ---
 
