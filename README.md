@@ -35,8 +35,8 @@ Os projetos foram desenvolvidos com foco em:
 - Organização modular de arquivos
 - Padronização de tabelas, figuras e equações
 - Clareza na escrita acadêmica
-- Uso de pacotes como `amsmath`, `graphicx`, `booktabs`
 
+  
 ---
 
 ## 🛠 Tecnologias utilizadas
