@@ -19,9 +19,9 @@ O trabalho explora o uso de ferramentas computacionais (como Wolfram Mathematica
 
 ### 🔬 Relatório de Física Experimental
 
-Projeto com foco em **análise experimental e interpretação de resultados físicos**, incluindo estudo do comportamento de materiais elásticos.
+Projeto com foco em análise experimental e interpretação de resultados físicos, a partir de um experimento de lançamento horizontal de esferas.
 
-O trabalho aborda a verificação da Lei de Hooke, análise de histerese, tratamento de incertezas experimentais e construção de gráficos, com ênfase na interpretação dos dados obtidos em laboratório.
+O trabalho envolve estudo da distribuição dos alcances, construção e análise de histogramas, comparação entre esferas de materiais diferentes e tratamento de incertezas experimentais, com foco na apresentação e interpretação dos resultados obtidos em laboratório.
 
 📄 [Ver PDF](./relatorio-fisica/relatorio.pdf)  
 🗂 [Baixar código-fonte](./relatorio-fisica/codigo-fonte.zip)
